@@ -12,4 +12,5 @@ To initiate a project:
 npm run devStart
 
 --
+
 Clients are connected on the URL: http://127.0.0.1:5500/game.html
